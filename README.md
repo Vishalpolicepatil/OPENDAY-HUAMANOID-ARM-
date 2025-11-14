@@ -80,6 +80,7 @@ Parts must be printed with:
 - 20–30% infill
 - Good dimensional accuracy
 - Minimal warping (calibrator is provided for accuracy)
+![alt text](https://github.com/Vishalpolicepatil/OPENDAY-HUAMANOID-ARM-/blob/main/DSC06259.jpg?raw=true)
 
 ### 5.2 Mechanical Assembly
 The steps include:
