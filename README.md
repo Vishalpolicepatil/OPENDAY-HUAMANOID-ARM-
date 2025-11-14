@@ -16,6 +16,7 @@ It is widely used in robotics research, education, and prototyping because all p
 This design uses **tendon-driven mechanics**, **servo motors**, and **modular 3D-printed components** to replicate the basic movement of a human hand and wrist.
 
 ---
+![alt text](https://github.com/Vishalpolicepatil/OPENDAY-HUAMANOID-ARM-/blob/main/DSC06254-1024x768.jpg?raw=true)
 
 ## 2. Major Components
 
