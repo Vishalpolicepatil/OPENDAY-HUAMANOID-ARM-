@@ -4,7 +4,7 @@
 | Vishal             | U25UV24T043121 | 3rd Sem |
 | Parthjit Singh | U25UV24T043076 | 3rd Sem |
 | Khusi mittal    | U25UV23T040045 | 5th Sem |
-| Arpit Mauray | U25UV24T040017  | 3rd Sem |
+| Arpit Maurya  | U25UV24T040017  | 3rd Sem |
 
 
 # InMoov Humanoid Hand & Forearm — Explanation
