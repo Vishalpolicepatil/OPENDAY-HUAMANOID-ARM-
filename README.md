@@ -96,6 +96,7 @@ The steps include:
 - Movements are tested with small angle increments  
 
 ---
+![alt text](https://github.com/Vishalpolicepatil/OPENDAY-HUAMANOID-ARM-/blob/main/inmoov_robot_arm_3d_print4.jpg?raw=true)
 
 ## 6. Applications
 
