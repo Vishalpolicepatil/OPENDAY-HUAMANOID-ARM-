@@ -136,4 +136,5 @@ Its open-source nature allows users to modify, redesign, and improve the system 
 
 The InMoov humanoid hand and forearm represents one of the best open-source robotic hand systems available today.  
 Its realistic motion, modular design, and accessible components make it a valuable tool for learning and experimenting with robotics, mechanical engineering, and human-like motion systems.
+[click here](https://youtu.be/9XGYumE1mqY) to view video of performance
 
